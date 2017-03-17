@@ -19,8 +19,8 @@ namespace TESTING_GITHUB
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("TESTING MSGBOX ");
-            MessageBox.Show("TESTING 2");
+            MessageBox.Show("TESTING MSGBOX");
+            string strName = "";
         }
     }
 }
